@@ -1,6 +1,8 @@
 # See docs at: https://mystmd.org/guide/frontmatter
 version: 1
 project:
+  jupyter: true
+    lite: true
   id: 13c7e237-f40c-43bc-8508-00268e801699
   # title: MA/CS 4200: Cryptography
   # description:
@@ -25,8 +27,8 @@ project:
         - file: chapters/02/classical-transposition.ipynb
         - file: chapters/02/1/reverse-cipher.ipynb
         - file: chapters/02/2/railfence-cipher.ipynb
-        - file: chapters/03/3/route-cipher.ipynb
-        - file: chapters/03/4/atbash-cipher.ipynb
+        - file: chapters/02/3/route-cipher.ipynb
+        - file: chapters/02/4/atbash-cipher.ipynb
     
 site:
   template: book-theme
