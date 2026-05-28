@@ -43,11 +43,26 @@ project:
         - file: chapters/03/3/2/for-loops.ipynb
         - file: chapters/03/4/functions.ipynb
         - file: chapters/03/5/programming-railfence.ipynb
+    - title: "Chapter 4: Substitution Ciphers"
+      children:
+        - file: chapters/04/1/general-substitution.ipynb
+        - file: chapters/04/2/caesar-cipher.ipynb
+        - file: chapters/04/3/modular-arithmetic.ipynb
+        - file: chapters/04/4/caesar-revisted.ipynb
+        - file: chapters/04/5/multiplicative-cipher.ipynb
+        - file: chapters/04/6/affine-cipher.ipynb
+    - title: "Chapter 5: Intermediate Python"
+    - title: "Chapter 6: Monoalphabetic Cryptanalysis"
+    - title: "Chapter 7: Polyalphabetic Ciphers"
+    - title: "Chapter 8: Polyalphabetic Cryptanalysis"
     - title: "Chapter 9: Intro to Polygraphic Ciphers"
       children:
         - file: chapters/09/playfair.ipynb
         - file: chapters/09/bifid.ipynb
         - file: chapters/09/hill.ipynb
+    - title: "Chapter 10: Binary Stream Ciphers"
+    - title: "Chapter 11: Public Key Cryptography"
+    - title: "Chapter 12: Error Dectecting and Correcting"
 
     
 site:
