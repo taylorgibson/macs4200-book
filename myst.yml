@@ -29,6 +29,22 @@ project:
         - file: chapters/02/2/railfence-cipher.ipynb
         - file: chapters/02/3/route-cipher.ipynb
         - file: chapters/02/4/atbash-cipher.ipynb
+    - title: "Chapter 3: Intro to Programming in Python"
+      children:
+        - file: chapters/03/1/opening-a-notebook.ipynb
+        - file: chapters/03/2/1/mathematical-operations.ipynb
+        - file: chapters/03/2/2/data-types.ipynb
+        - file: chapters/03/2/3/variables.ipynb
+        - file: chapters/03/2/4/string-operations.ipynb
+        - file: chapters/03/2/5/comparisons.ipynb
+        - file: chapters/03/2/6/conditional-statements.ipynb
+        - file: chapters/03/2/7/programming-reverse.ipynb
+        - file: chapters/03/3/1/while-loops.ipynb
+        - file: chapters/03/3/2/for-loops.ipynb
+        - file: chapters/03/4/functions.ipynb
+        - file: chapters/03/5/programming-railfence.ipynb
+    - title: "Chapter 4:"
+
     
 site:
   template: book-theme
