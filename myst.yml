@@ -48,21 +48,60 @@ project:
         - file: chapters/04/1/general-substitution.ipynb
         - file: chapters/04/2/caesar-cipher.ipynb
         - file: chapters/04/3/modular-arithmetic.ipynb
-        - file: chapters/04/4/caesar-revisted.ipynb
+        - file: chapters/04/4/caesar-revisited.ipynb
         - file: chapters/04/5/multiplicative-cipher.ipynb
         - file: chapters/04/6/affine-cipher.ipynb
     - title: "Chapter 5: Intermediate Python"
+      children:
+        - file: chapters/05/1/python-shortcuts.ipynb
+        - file: chapters/05/2/lists.ipynb
+        - file: chapters/05/3/file-io.ipynb
+        - file: chapters/05/4/programming-caesar.ipynb
+        - file: chapters/05/5/modules.ipynb
     - title: "Chapter 6: Monoalphabetic Cryptanalysis"
+      children:
+        - file: chapters/06/1/brute-force.ipynb
+        - file: chapters/06/2/frequency-analysis.ipynb
+        - file: chapters/06/3/solving-congruences.ipynb
+        - file: chapters/06/4/chi-squared-scoring.ipynb
     - title: "Chapter 7: Polyalphabetic Ciphers"
+      children:
+        - file: chapters/07/1/tabula-recta.ipynb
+        - file: chapters/07/2/trithemius-cipher.ipynb
+        - file: chapters/07/3/vigenere-cipher.ipynb
+        - file: chapters/07/4/autokey-cipher.ipynb
     - title: "Chapter 8: Polyalphabetic Cryptanalysis"
+      children:
+        - file: chapters/08/1/identifying-polyalphabetic.ipynb
+        - file: chapters/08/2/cracking-trithemius.ipynb
+        - file: chapters/08/3/kasiski-test.ipynb
+        - file: chapters/08/4/find-keylength-with-IC.ipynb
+        - file: chapters/08/5/determining-keyword.ipynb
     - title: "Chapter 9: Intro to Polygraphic Ciphers"
       children:
         - file: chapters/09/playfair.ipynb
         - file: chapters/09/bifid.ipynb
         - file: chapters/09/hill.ipynb
     - title: "Chapter 10: Binary Stream Ciphers"
+      children:
+        - file: chapters/10/1/positional-number-systems.ipynb
+        - file: chapters/10/2/text-to-binary.ipynb
+        - file: chapters/10/3/binary-operations.ipynb
+        - file: chapters/10/4/lfsr.ipynb
+        - file: chapters/10/5/lfsr-security.ipynb
+        - file: chapters/10/6/lfsr-sum.ipynb
     - title: "Chapter 11: Public Key Cryptography"
+      children:
+        - file: chapters/11/1/kidrsa.ipynb
+        - file: chapters/11/2/cracking-kidrsa.ipynb
+        - file: chapters/11/3/rsa.ipynb
     - title: "Chapter 12: Error Dectecting and Correcting"
+      children:
+        - file: chapters/12/1/parity.ipynb
+        - file: chapters/12/2/hamming-distance.ipynb
+        - file: chapters/12/3/error-detecting-correcting-codes.ipynb
+        - file: chapters/12/4/isbn-numbers.ipynb
+        - file: chapters/12/5/hamming-7-4.ipynb
 
     
 site:
