@@ -43,7 +43,11 @@ project:
         - file: chapters/03/3/2/for-loops.ipynb
         - file: chapters/03/4/functions.ipynb
         - file: chapters/03/5/programming-railfence.ipynb
-    - title: "Chapter 4:"
+    - title: "Chapter 9: Intro to Polygraphic Ciphers"
+      children:
+        - file: chapters/09/playfair.ipynb
+        - file: chapters/09/bifid.ipynb
+        - file: chapters/09/hill.ipynb
 
     
 site:
