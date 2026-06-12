@@ -4,3 +4,4 @@ numpy
 pandas
 datascience
 seaborn
+ipywidgetes
